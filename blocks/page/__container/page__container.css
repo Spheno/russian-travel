@@ -1,0 +1,17 @@
+.page__container {
+  margin: 0 auto 92px;
+}
+
+@media (max-width: 1023px) {
+
+  .page__container {
+    margin-bottom: 88px;
+  }
+}
+
+@media (max-width: 767px) {
+
+  .page__container {
+    margin-bottom: 64px;
+  }
+}
