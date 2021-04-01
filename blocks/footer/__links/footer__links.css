@@ -1,7 +1,11 @@
+.footer__links {
+  display: flex;
+  justify-content: center;
+}
+
 @media (max-width: 767px) {
 
   .footer__links {
-    display: flex;
     flex-direction: column;
   }
 }
