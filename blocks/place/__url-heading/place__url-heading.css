@@ -1,4 +1,4 @@
-.website__url-heading {
+.place__url-heading {
   font-size: 12px;
   line-height: 1;
   font-style: underline;
@@ -9,7 +9,7 @@
 
 @media (max-width: 1023px) {
 
-  .website__url-heading {
+  .place__url-heading {
     font-size: 12px;
     line-height: 1;
   }
@@ -18,7 +18,7 @@
 
 @media (max-width: 767px) {
 
-  .website__url-heading {
+  .place__url-heading {
     font-size: 12px;
     line-height: 1;
   }
